@@ -15,11 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: WEBSITE TITTLE
+subtitle: "Version 2.0"
 email: eng272@nyu.edu
 description: "<WEBSITE DESCRIPTION>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estebanng.github.io"
 repository: "estebanng/estebanng.github.io"
+#logo: "/assets/images/88x88.png" (HABLAR CON VERENA?)
+search : true
+loacale: "en-US"
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+twitter:
+  username: "EstebanNG_"
+
 
 include:
   - .htaccess
@@ -46,6 +55,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/estebanng
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/EstebanNG_"
 
 
 
@@ -57,7 +69,7 @@ author:
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "air"
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -67,7 +79,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-loacale: "en-US"
 
 defaults:
   # _posts
@@ -81,6 +92,7 @@ defaults:
       share: true
       comments: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -94,13 +106,13 @@ defaults:
 # permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: UA-147241561-1
-    anonymize_ip: false # default
+# CHANGE TO MY OWN CREDENTIALS
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: UA-147241561-1
+#     anonymize_ip: false # default
 
 # Archives
 #  Type
@@ -131,3 +143,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Gets rid of the feed
+atom_feed:
+  hide: true
