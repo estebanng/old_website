@@ -59,8 +59,6 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/EstebanNG_"
 
-
-
 # # Outputting
 # permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
@@ -91,7 +89,7 @@ defaults:
       read_time: true
       share: true
       comments: false
-      related: true
+      related: false
       show_date: true
   # _pages
   - scope:
@@ -103,9 +101,9 @@ defaults:
       read_time: false
 
 # Outputting
-# permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+permalink: /:categories/:title/
+paginate: 3 # amount of posts to show
+paginate_path: /page:num/
 
 # CHANGE TO MY OWN CREDENTIALS
 # analytics:
@@ -147,3 +145,19 @@ exclude:
 # Gets rid of the feed
 atom_feed:
   hide: true
+
+# Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: https://www.linkedin.com/in/estebanng/
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url:  mailto:eng272@nyu.edu
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/estebanng
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/EstebanNG_"
