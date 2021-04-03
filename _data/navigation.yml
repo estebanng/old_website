@@ -1,0 +1,13 @@
+main:
+  - title: "About Me"
+    url: /aboutme
+  # - title: "Research/Software/Publications"
+  #   url: /research
+  # - title: "CV"
+  #   url: /cv
+  # - title: "Resume"
+  #   url: /resume
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  # - title: "Manuscript Resources"
+  #   url: /resources
