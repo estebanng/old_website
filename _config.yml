@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITE TITTLE
-subtitle: "Beta Version"
+#title: WEBSITE TITTLE
+#subtitle: "Beta Version"
 email: eng272@nyu.edu
-description: "<WEBSITE DESCRIPTION>"
+#description: "<WEBSITE DESCRIPTION>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estebanng.github.io"
 repository: "estebanng/estebanng.github.io"
@@ -85,6 +85,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       share: true
@@ -97,6 +98,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: false
 
