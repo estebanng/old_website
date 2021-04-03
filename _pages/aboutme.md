@@ -17,6 +17,6 @@ permalink: /aboutme/
 - Fulbright-García Robles Scolarship (2018-2020)
 - NYU Center for Data Science DeepMind Fellowship (2018)
 
-### Archive
+### Gallery
 
 ![ENG_mongo](/assets/images/MongoPresentation.jpg)
