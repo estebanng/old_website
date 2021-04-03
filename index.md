@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 title: Untitled
+header:
+  overlay_image: /assets/images/DodgerStadiumHeader.jpg
+  overlay_filter: 0.2 #opacity
+  caption: "Dodger Stadium"
+  image_description: "Dodger Stadium"
 ---
 Quantitative Analyst at [Los Angeles Dodgers](https://www.mlb.com/dodgers/)
 

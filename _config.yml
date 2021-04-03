@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Esteban Navarro Garaiz
+title: WEBSITE TITTLE
 email: eng272@nyu.edu
 description: "<WEBSITE DESCRIPTION>"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,15 +37,16 @@ author:
   Los Angeles Dodgers"
   location: "Los Angeles, CA"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: https://www.linkedin.com/in/estebanng/
     - label: "Email"
       icon: "fas fa-envelope"
       url:  mailto:eng272@nyu.edu
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/estebanng
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: https://www.linkedin.com/in/estebanng/
+
 
 
 # # Outputting
