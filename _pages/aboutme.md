@@ -4,18 +4,19 @@ permalink: /aboutme/
 ---
 ### Past Work
 
-- MongoDB
-- Universidad Nacional Autónoma de México
+- Data Science Intern at MongoDB (2019)
+- Assistant Professor at Universidad Nacional Autónoma de México (UNAM)
 
 ### Media links
 
-- Measurables Podcast
+- [Measurables Podcast, January 2021](https://twitter.com/MeasurablesPod/status/1349385507839553536)
+- [NYU Data Science Alumni Spotlight, December 2020](https://nyudatascience.medium.com/data-and-baseball-a-cds-alums-experience-working-for-the-la-dodgers-33ebc142eed8)
 
-### Awards
+### Awards / Scolarships
 
-- Fulbright
-- Deepmind
+- Fulbright-García Robles Scolarship (2018-2020)
+- NYU Center for Data Science DeepMind Fellowship (2018)
 
-### Personal
+### Archive
 
-- Sample photo ![ENG](/assets/images/EstebanSquare.jpg)
+![ENG_mongo](/assets/images/MongoPresentation.jpg)
