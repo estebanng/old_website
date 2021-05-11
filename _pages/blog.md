@@ -2,4 +2,5 @@
 title: "Blog"
 permalink: /blog/
 ---
-### Coming Soon!
+
+<embed src="../pdf_files/LaVidaDespuesDeLaFac.pdf" type="application/pdf" />
