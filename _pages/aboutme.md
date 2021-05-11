@@ -2,10 +2,15 @@
 title: "About Me"
 permalink: /aboutme/
 ---
+
+### Currently
+- Quantitative Analyst at Los Angeles Dodgers (2020 - Present)
+
+
 ### Past Work
 
 - Data Science Intern at MongoDB (2019)
-- Assistant Professor at Universidad Nacional Autónoma de México (UNAM)
+- Assistant Professor at Universidad Nacional Autónoma de México (2016-2018)
 
 ### Media links
 
