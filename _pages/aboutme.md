@@ -14,6 +14,7 @@ permalink: /aboutme/
 
 ### Media links
 
+- [La Vida Después de la Fac, Mayo 2021](https://www.youtube.com/watch?v=NbLrm6Am4Xw)
 - [Measurables Podcast, January 2021](https://twitter.com/MeasurablesPod/status/1349385507839553536)
 - [NYU Data Science Alumni Spotlight, December 2020](https://nyudatascience.medium.com/data-and-baseball-a-cds-alums-experience-working-for-the-la-dodgers-33ebc142eed8)
 
