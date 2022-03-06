@@ -10,7 +10,7 @@ title: Welcome to my personal page!
   caption: "Dodger Stadium"
   image_description: "Dodger Stadium" -->
 
-I am currently a Quantitative Analyst at [Los Angeles Dodgers](https://www.mlb.com/dodgers/team/front-office)
+I am currently a Product Scientist at [Zelus Analytics](https://zelusanalytics.com/)
 
 This website contains information about my personal, professional and academic life
 
