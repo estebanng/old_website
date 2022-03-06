@@ -15,16 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Personal Website
-subtitle: "Beta Version"
-email: eng272@nyu.edu
+# subtitle: "Beta Version"
+email: estebannavarrogaraiz@gmail.com
 #description: "<WEBSITE DESCRIPTION>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estebanng.github.io"
 repository: "estebanng/estebanng.github.io"
 #logo: "/assets/images/88x88.png" (HABLAR CON VERENA?)
 search : true
-loacale: "en-US"
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+loacale: "en-MX"
+timezone: America/Mexico_City # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 twitter:
   username: "EstebanNG_"
@@ -42,16 +42,16 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 author:
   name : "Esteban Navarro Garaiz"
   avatar: "/assets/images/EstebanSquareNew.jpg"
-  bio: "Quantitative Analyst<br/>
-  Los Angeles Dodgers"
-  location: "Los Angeles, CA"
+  bio: "Product Scientist<br/>
+  Zelus Analytics"
+  location: "Mexico City, MX"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/estebanng/
     - label: "Email"
       icon: "fas fa-envelope"
-      url:  mailto:eng272@nyu.edu
+      url:  mailto:estebannavarrogaraiz@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/estebanng
