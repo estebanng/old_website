@@ -29,4 +29,4 @@ permalink: /aboutme/
 
 ### Gallery
 
-<img src="/assets/images/EstebanRing.jpg" width="1200">
+<img src="/assets/images/EstebanRing.jpg" width="600">
