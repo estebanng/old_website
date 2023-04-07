@@ -10,7 +10,7 @@ title: Welcome to my personal page!
   caption: "Dodger Stadium"
   image_description: "Dodger Stadium" -->
 
-I am currently a Product Scientist at [Zelus Analytics](https://zelusanalytics.com/)
+I am currently a Technical Product Manager at [Zelus Analytics](https://zelusanalytics.com/)
 
 This website contains information about my personal, professional and academic life
 

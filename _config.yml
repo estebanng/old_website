@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Personal Website
-# subtitle: "Beta Version"
+title: Esteban Navarro Garaiz
+subtitle: "Personal Website"
 email: estebannavarrogaraiz@gmail.com
 #description: "<WEBSITE DESCRIPTION>"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,7 +29,6 @@ timezone: America/Mexico_City # https://en.wikipedia.org/wiki/List_of_tz_databas
 twitter:
   username: "EstebanNG_"
 
-
 include:
   - .htaccess
   - _pages
@@ -42,7 +41,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 author:
   name : "Esteban Navarro Garaiz"
   avatar: "/assets/images/EstebanSquareNew.jpg"
-  bio: "Product Scientist<br/>
+  bio: "Technical Product Manager<br/>
   Zelus Analytics"
   location: "Mexico City, MX"
   links:
